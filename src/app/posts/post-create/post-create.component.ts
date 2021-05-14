@@ -10,7 +10,7 @@ export class PostCreateComponent {
   constructor() {
 
   }
-  onSubmit(postForm:NgForm){
+  onAddPost(postForm:NgForm){
     console.log(postForm);
   }
 
